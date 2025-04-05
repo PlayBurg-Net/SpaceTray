@@ -2,7 +2,7 @@
 
 **SpaceTray** is a lightweight Windows application that lives in your system tray and helps you monitor your disk space and recycle bin size in real-time.
 
-![screenshot]()
+![screenshot](https://github.com/PlayBurg-Net/SpaceTray/img/customization.png)
 
 ---
 

@@ -12,7 +12,6 @@
 - 🔔 Low space notifications
 - 💡 Clean and minimal interface
 - ⚙️ Auto-start with Windows (optional)
-- 🌙 Dark mode support
 
 ---
 

@@ -53,5 +53,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name](https://github.com/PlayBurg-Net)
+Created with ❤️ by [PlayBurg.Net](https://github.com/PlayBurg-Net)
 
